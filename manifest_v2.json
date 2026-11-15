@@ -1,0 +1,74 @@
+{
+    "item": {
+        "name": "方块纪元 3D",
+        "id": "979820261132",
+        "restype": "watchface",
+        "description": "方块纪元 3D 是一款腕上第一人称沙盒游戏。在方块世界中探索、采矿、建造，还能遇见动物，把完整的立体世界戴在手上。",
+        "icon": "icon.jpg",
+        "cover": "cover.jpg",
+        "preview": [
+            "preview-1.png",
+            "preview-2.png",
+            "preview-3.jpg"
+        ],
+        "author": [
+            {
+                "name": "cahkcs"
+            }
+        ]
+    },
+    "links": [
+        {
+            "title": "爱发电",
+            "url": "https://ifdian.net/item/6dc47a10d93a11f1a4b552540025c377",
+            "icon": "facebook-logo"
+        },
+        {
+            "title": "官网",
+            "url": "https://mi.steam.cab/",
+            "icon": "github-logo"
+        }
+    ],
+    "downloads": {
+        "xmb9": {
+            "file_name": "xmb9.face",
+            "version": "0.0.2",
+            "versionCode": 2
+        },
+        "xmb9p": {
+            "file_name": "xmb9p.face",
+            "version": "0.0.2",
+            "versionCode": 2
+        },
+        "xmb10": {
+            "file_name": "xmb10.face",
+            "version": "0.0.2",
+            "versionCode": 2
+        },
+        "xmb10nfc": {
+            "file_name": "xmb10nfc.face",
+            "version": "0.0.2",
+            "versionCode": 2
+        },
+        "xmb10p": {
+            "file_name": "xmb10p.face",
+            "version": "0.0.2",
+            "versionCode": 2
+        },
+        "xmb11": {
+            "file_name": "xmb11.face",
+            "version": "0.0.9",
+            "versionCode": 9
+        },
+        "xmb11nfc": {
+            "file_name": "xmb11nfc.face",
+            "version": "0.0.9",
+            "versionCode": 9
+        },
+        "xmrw6": {
+            "file_name": "xmrw6.face",
+            "version": "0.0.2",
+            "versionCode": 2
+        }
+    }
+}
